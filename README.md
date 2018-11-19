@@ -1,4 +1,4 @@
-# Kubernetes plugin for drone.io [![Docker Repository on Quay](https://quay.io/repository/honestbee/drone-kubernetes/status "Docker Repository on Quay")](https://quay.io/repository/honestbee/drone-kubernetes)
+# Kubernetes plugin for drone.io on ARM
 
 This plugin allows to update a Kubernetes deployment. I ported it to ARM to make life easier for those of us living in an arm world.
 
